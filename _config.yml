@@ -11,7 +11,7 @@ description:         'A reserved <a href="http://jekyllrb.com" target="_blank">J
 url:                 http://cthames.github.io
 baseurl:             'http://cthames.github.io'
 paginate:            5
-permalink:           /:year/:month/:title
+## permalink:           /:year/:month/:title
 
 # About/contact
 author:
